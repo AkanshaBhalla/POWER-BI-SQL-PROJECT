@@ -1,4 +1,4 @@
-# POWER-BI-SQL-PROJECT
+# POWER-BI-SQL-PROJECT(PIZZA SALES ANALYSIS)
 The Pizza Sales Analysis project provides an in-depth evaluation of a pizza company's operations through comprehensive data analysis using a client-provided dataset. This detailed examination reveals essential insights into the company's performance, highlighting sales trends, popular pizza categories, optimal sizes, revenue streams, profit generation, and profit margins.
 
 Key Components:
